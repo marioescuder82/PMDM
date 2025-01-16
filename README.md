@@ -30,6 +30,10 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 - [Temas](TEMAS.md)
 - Repositorio de paquetes
 
+### Listado de APIs públicas
+
+- [APIs](https://github.com/public-apis/public-apis?tab=readme-ov-file)
+
 ### Entregas
 
 - [ ] Calculadora **26/1/2025**
