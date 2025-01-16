@@ -5,12 +5,13 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 
 ### Entregas
 
-- [ ] Práctica 1: Calculadora
+- [ ] **Práctica 1: Calculadora**
   - En esta práctica tenemos que desarrollar una calculadora básica con algunas funcionalidades avanzadas, tomando como base la aplicación Contador.
   - Esta calculadora realizará las operaciones básicas (suma, resta, multiplicación y división) y al menos una operación avanzada (puede ser inventada, como por ejemplo una operación ++ que sume al primer número dos veces el segundo). 
   - Además, incorporará un botón C para hacer un "clear" de la pantalla.
   - La calculadora será capaz de sumar números de cualquier longitud.
-- [ ] Práctica 2: Chomón App
+  
+- [ ] **Práctica 2: Chomón App**
   - En esta práctica tenemos que desarrollar una aplicación que nos permita acceder a toda la información relevante de nuestros estudios en el IES Segundo de Chomón.
   - La aplicación tendrá al menos las siguientes páginas:
     - Home: esta página incluirá un menú de acceso a las siguientes páginas.
