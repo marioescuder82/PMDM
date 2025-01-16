@@ -21,6 +21,8 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 
 ### Apuntes
 
+- [Widgets] (WIDGETS.md)
+
 ### Entregas
 
 - [ ] Calculadora **26/1/2025**
