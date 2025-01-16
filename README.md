@@ -28,7 +28,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 - [Navegación](NAVEGACION.md)
 - [Exportaciones](EXPORTACIONES.md)
 - [Temas](TEMAS.md)
-- Repositorios de paquetes
+- Repositorio de paquetes
 
 ### Entregas
 
