@@ -10,6 +10,11 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - Esta calculadora realizará las operaciones básicas (suma, resta, multiplicación y división) y al menos una operación avanzada (puede ser inventada, como por ejemplo una operación ++ que sume al primer número dos veces el segundo). 
   - Además, incorporará un botón C para hacer un "clear" de la pantalla.
   - La calculadora será capaz de sumar números de cualquier longitud.
+  - **Temas clave**:
+    - Widgets con múltiples hijos: [column](COLUMN.md) y [row](ROW.md)
+	- [StatefulWidget](STATEFUL.md)
+	- [onPressed](ONPRESSED.md)
+	- [setState](SETSTATE.md)
   
 - [ ] **Práctica 2: Chomón App**
   - En esta práctica tenemos que desarrollar una aplicación que nos permita acceder a toda la información relevante de nuestros estudios en el IES Segundo de Chomón.
@@ -20,7 +25,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Contactos: esta página mostrará una lista de contactos. Cada contacto será un "card" con la información de esa persona: Nombre, email, teléfono, etc.
 
 
-### Apuntes
+### Más Apuntes
 
 - [Widgets](WIDGETS.md)
 - [Complementos](COMPLEMENTOS.md)
