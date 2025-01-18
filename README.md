@@ -11,6 +11,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - Además, incorporará un botón C para hacer un "clear" de la pantalla.
   - La calculadora será capaz de sumar números de cualquier longitud.
   - **Temas clave**:
+  	- [Widgets](WIDGETS.md)
     - Widgets con múltiples hijos: [column](COLUMN.md) y [row](ROW.md)
 	- [StatefulWidget](STATEFUL.md)
 	- [onPressed](ONPRESSED.md)
@@ -24,7 +25,6 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Asignaturas: en esta página tendremos un menú con todas nuestras asignaturas. La página de cada asignatura tendrá una serie de "cards" con información relevante al respecto: Profesor, Programación, Fechas de examenes (y lo que se os ocurra)
 	- Contactos: esta página mostrará una lista de contactos. Cada contacto será un "card" con la información de esa persona: Nombre, email, teléfono, etc.
 	- **Temas clave**
-	  - [Widgets](WIDGETS.md)
 	  - [Navegación](NAVEGACION.md)
 	  - [Scaffold](SCAFFOLD.md)
 	  - [ListView](LISTVIEW.md)
