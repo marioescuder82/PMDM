@@ -29,7 +29,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 - [Exportaciones](EXPORTACIONES.md)
 - [Temas](TEMAS.md)
 - Repositorio de paquetes (pub.dev)
-- [Media Query] (MEDIA_QUERY.md)
+- [Media Query](MEDIA_QUERY.md)
 
 ### Listado de APIs públicas
 
