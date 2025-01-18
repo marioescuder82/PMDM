@@ -1,0 +1,1 @@
+export 'package:prueba_1/widgets/card_swiper.dart';
