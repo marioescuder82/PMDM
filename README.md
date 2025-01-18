@@ -30,6 +30,15 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 - [Temas](TEMAS.md)
 - Repositorio de paquetes (pub.dev)
 - [Media Query](MEDIA_QUERY.md)
+- REST APIs
+- Postman
+- Providers
+- Quicktype.io
+- Componentes
+  - ListView
+  - Card
+- Iconos
+- Operador spread (...)
 
 ### Listado de APIs públicas
 
