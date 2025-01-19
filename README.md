@@ -45,17 +45,17 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- [Temas](TEMAS.md)
 	- [Media Query](MEDIA_QUERY.md)
 	- Repositorio de paquetes (pub.dev)
-	- REST APIs
+	- Uso de REST APIs
 	- Postman
 	- Providers
 	- Quicktype.io
 	
 - [ ] **Práctica 4: Entrega Final**
-  - En esta práctica desarrollaremos una app con todos los conceptos que hemos aprendido en las prácticas anteriores, además de los Temas Clave que muestro a continuación.
+  - En esta práctica desarrollaremos una app con todos los conceptos que hemos aprendido en las prácticas anteriores, además de algunos de los Temas Clave que muestro a continuación.
   - **Temas clave**
-    - ?
-	- ?
-	- ?
+    - Firebase
+	- Creación de una REST API
+	- Uso de sensores, localización y cámara de fotos
 
 ### Listado de APIs públicas
 
