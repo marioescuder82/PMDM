@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:prueba_1/provider/disks_provider.dart';
-import 'package:prueba_1/screens/screens.dart';
+import 'package:music_db/provider/disks_provider.dart';
+import 'package:music_db/screens/screens.dart';
 
 void main() => runApp(AppState());
 

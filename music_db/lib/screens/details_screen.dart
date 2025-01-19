@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prueba_1/models/disk_response.dart';
+import 'package:music_db/models/disk_response.dart';
 
 class DetailsScreen extends StatelessWidget {
   const DetailsScreen({super.key});

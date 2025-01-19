@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 
 import 'package:http/http.dart' as http;
-import 'package:prueba_1/models/disk_response.dart';
+import 'package:music_db/models/disk_response.dart';
 
 class DisksProvider extends ChangeNotifier {
   final String _baseUrl = 'theaudiodb.com';

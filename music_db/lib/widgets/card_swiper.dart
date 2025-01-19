@@ -1,7 +1,7 @@
 import 'package:flutter_card_swiper/flutter_card_swiper.dart';
 
 import 'package:flutter/material.dart';
-import 'package:prueba_1/models/disk_response.dart';
+import 'package:music_db/models/disk_response.dart';
 
 class MyCardSwiper extends StatelessWidget {
   final List<DiskResponse> disks;

@@ -1,1 +1,1 @@
-export 'package:prueba_1/widgets/card_swiper.dart';
+export 'package:music_db/widgets/card_swiper.dart';
