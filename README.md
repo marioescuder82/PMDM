@@ -30,6 +30,8 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	  - [Scaffold](SCAFFOLD.md)
 	  - [ListView](LISTVIEW.md)
 	  - [Operador spread (...)](SPREAD.md)
+	  - [Snippets](SNIPPETS.md)
+	  - [Exportaciones](EXPORTACIONES.md)
 	  - [Iconos disponibles en Flutter](https://api.flutter.dev/flutter/material/Icons-class.html)
 	  - Card
 	  
@@ -40,9 +42,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - Al clickar sobre cada una de las carátulas, nos llevará a la página del disco.
   - Podemos utilizar algún widget como https://pub.dev/packages/flutter_card_swiper para mostrar las carátulas de los discos
   - **Temas clave**
-    - [Complementos](COMPLEMENTOS.md)
-	- [Snippets](SNIPPETS.md)
-	- [Exportaciones](EXPORTACIONES.md)
+    - [Complementos](COMPLEMENTOS.md)	
 	- [Temas](TEMAS.md)
 	- [Media Query](MEDIA_QUERY.md)
 	- Repositorio de paquetes (pub.dev)
