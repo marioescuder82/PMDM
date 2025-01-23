@@ -10,6 +10,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - Esta calculadora realizará las operaciones básicas (suma, resta, multiplicación y división) y al menos una operación avanzada (puede ser inventada, como por ejemplo una operación ++ que sume al primer número dos veces el segundo). 
   - Además, incorporará un botón C para hacer un "clear" de la pantalla.
   - La calculadora será capaz de sumar números de cualquier longitud.
+  - El proyecto debe incluir una carpeta widgets dentro de la carpeta lib. Esta carpeta contendrá dos ficheros, uno con un widget para el texto de nuestros botones y otro con un widget para el propio botón.
   - **Temas clave**:
   	- [Widgets](WIDGETS.md)
     - Widgets con múltiples hijos: [column](COLUMN.md) y [row](ROW.md)
