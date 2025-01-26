@@ -54,6 +54,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 - [ ] **Práctica 4: Chomon App V2**
   - En esta práctica desarrollaremos una versión 2 de la Chomon App.
   - En esta versión de la aplicación, crearemos un formulario para añadir contactos.
+  - También vamos a añadir la opción de editar y borrar un contacto.
   - Además, configuraremos un login para autenticarnos en la plataforma.
   - **Temas clave**
     - Firebase
