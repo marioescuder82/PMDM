@@ -55,6 +55,8 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - En esta práctica desarrollaremos una app con todos los conceptos que hemos aprendido en las prácticas anteriores, además de algunos de los Temas Clave que muestro a continuación.
   - **Temas clave**
     - Firebase
+	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
+	  - [Firebase Realtime Database de acceso público](FIREBASE1.md)
 	- Creación de una REST API
 	- Uso de sensores, localización y cámara de fotos
 
