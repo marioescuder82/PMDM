@@ -66,7 +66,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 
 ### Entregas
 
-- [ ] Calculadora **26/1/2025**
+- [X] Calculadora **26/1/2025**
   - https://classroom.github.com/a/TsUGdctw
 - [ ] Chomón App **9/2/2025**
   - https://classroom.github.com/a/1AE6Qt0-
