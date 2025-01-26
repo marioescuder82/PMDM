@@ -5,7 +5,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 
 ### Entregas
 
-- [ ] **Práctica 1: Calculadora**
+- [X] **Práctica 1: Calculadora**
   - En esta práctica tenemos que desarrollar una calculadora básica con algunas funcionalidades avanzadas, tomando como base la aplicación Contador.
   - Esta calculadora realizará las operaciones básicas (suma, resta, multiplicación y división) y al menos una operación avanzada (puede ser inventada, como por ejemplo una operación ++ que sume al primer número dos veces el segundo). 
   - Además, incorporará un botón C para hacer un "clear" de la pantalla.
