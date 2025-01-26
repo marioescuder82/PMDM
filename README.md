@@ -52,15 +52,15 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Quicktype.io
 	
 - [ ] **Práctica 4: Entrega Final**
-  - En esta práctica desarrollaremos una app con todos los conceptos que hemos aprendido en las prácticas anteriores, además de algunos de los Temas Clave que muestro a continuación.
+  - En esta práctica desarrollaremos una versión 2 de la Chomon App.
+  - En esta versión de la aplicación, crearemos un formulario para añadir contactos.
+  - Además, configuraremos un login para autenticarnos en la plataforma.
   - **Temas clave**
     - Firebase
 	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
 	  - [Firebase Realtime Database de acceso público](FIREBASE1.md)	  
 	  - Login y manejo de Tokens
 	- Formularios en Flutter
-	- Creación de una REST API
-	- Uso de sensores, localización y cámara de fotos
 
 ### Listado de APIs públicas
 
@@ -74,4 +74,4 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/1AE6Qt0-
 - [ ] MusicDB **23/2/2025**
   - https://classroom.github.com/a/uloH2nqA
-- [ ] Entrega Final **4/3/2025**
+- [ ] Entrega Final **9/3/2025** (Defensa **11/3/2025** y **13/3/2025**)
