@@ -51,7 +51,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Providers
 	- Quicktype.io
 	
-- [ ] **Práctica 4: Entrega Final**
+- [ ] **Práctica 4: Chomon App V2**
   - En esta práctica desarrollaremos una versión 2 de la Chomon App.
   - En esta versión de la aplicación, crearemos un formulario para añadir contactos.
   - Además, configuraremos un login para autenticarnos en la plataforma.
@@ -74,4 +74,4 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/1AE6Qt0-
 - [ ] MusicDB **23/2/2025**
   - https://classroom.github.com/a/uloH2nqA
-- [ ] Entrega Final **9/3/2025** (Defensa **11/3/2025** y **13/3/2025**)
+- [ ] Chomon App V2 **9/3/2025** (Defensa **11/3/2025** y **13/3/2025**)
