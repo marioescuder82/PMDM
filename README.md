@@ -51,11 +51,11 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Providers
 	- Quicktype.io
 	
-- [ ] **Práctica 4: Chomon App V2**
-  - En esta práctica desarrollaremos una versión 2 de la Chomon App.
-  - En esta versión de la aplicación, crearemos un formulario para añadir contactos.
-  - También vamos a añadir la opción de editar y borrar un contacto.
-  - Además, configuraremos un login para autenticarnos en la plataforma.
+- [ ] **Práctica 4: Entrega libre**
+  - En esta práctica debemos entregar una App que incluya, al menos:
+    - Un formulario de login
+	- Una página con un listView (o algún componente similar) que muestre información de una consulta privada a una BBDD en Firebase.
+	- La página anterior debe permitir crear, modificar o eliminar. Por ejemplo, podemos crear una BBDD de productos. La página mostraría un listado de los productos disponibles, y nos daría la opción de borrarlos, modificarlos o borrarlos.
   - **Temas clave**
     - Firebase
 	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
@@ -75,4 +75,4 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/1AE6Qt0-
 - [ ] MusicDB **23/2/2025**
   - https://classroom.github.com/a/uloH2nqA
-- [ ] Chomon App V2 **9/3/2025** (Defensa **11/3/2025** y **13/3/2025**)
+- [ ] Entrega libre **9/3/2025** (Defensa **11/3/2025** y **13/3/2025**)
