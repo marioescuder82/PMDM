@@ -59,7 +59,8 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - **Temas clave**
     - Firebase
 	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
-	  - [Firebase Realtime Database de acceso público](FIREBASE1.md)	  
+	  - [Firebase Realtime Database de acceso público](FIREBASE1.md)
+      - Firebase Auth Rest API
 	  - Login y manejo de Tokens
 	- Formularios en Flutter
 
