@@ -18,7 +18,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- [onPressed](ONPRESSED.md)
 	- [setState](SETSTATE.md)
   
-- [ ] **Práctica 2: Chomón App**
+- [X] **Práctica 2: Chomón App**
   - En esta práctica tenemos que desarrollar una aplicación que nos permita acceder a toda la información relevante de nuestros estudios en el IES Segundo de Chomón.
   - La aplicación tendrá al menos las siguientes páginas:
     - Home: esta página incluirá un menú de acceso a las siguientes páginas.
@@ -72,7 +72,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 
 - [X] Calculadora **26/1/2025**
   - https://classroom.github.com/a/TsUGdctw
-- [ ] Chomón App **9/2/2025**
+- [X] Chomón App **9/2/2025**
   - https://classroom.github.com/a/1AE6Qt0-
 - [ ] MusicDB **23/2/2025**
   - https://classroom.github.com/a/uloH2nqA
