@@ -76,5 +76,5 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/1AE6Qt0-
 - [ ] MusicDB **19/2/2025**
   - https://classroom.github.com/a/uloH2nqA
-- [ ] Entrega libre **6/3/2025** (Defensa **6/3/2025**)
+- [ ] Entrega libre **4/3/2025** (Defensa **6/3/2025**)
   - El **18/2/2025** se debe entregar durante la clase la propuesta de App
