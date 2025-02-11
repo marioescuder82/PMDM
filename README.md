@@ -38,7 +38,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 - [ ] **Práctica 3: MusicDB**
   - En esta práctica vamos a desarrollar una aplicación que utilizará la REST API de https://www.theaudiodb.com/
   - En la página principal, mostraremos un listado de todos los artistas. Al clickar sobre uno de ellos, nos llevará a su página.
-  - La página de cada artista contendrá su s datos (nombre, descripción, etc) y un listado de las carátulas de sus discos.
+  - La página de cada artista contendrá sus datos (nombre, descripción, etc) y un listado de las carátulas de sus discos.
   - Al clickar sobre cada una de las carátulas, nos llevará a la página del disco.
   - Podemos utilizar algún widget como https://pub.dev/packages/flutter_card_swiper para mostrar las carátulas de los discos
   - **Temas clave**
@@ -55,7 +55,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - En esta práctica debemos entregar una App que incluya, al menos:
     - Un formulario de login
 	- Una página con un listView (o algún componente similar) que muestre información de una consulta privada a una BBDD en Firebase.
-	- La página anterior debe permitir crear, modificar o eliminar. Por ejemplo, podemos crear una BBDD de productos. La página mostraría un listado de los productos disponibles, y nos daría la opción de borrarlos, modificarlos o borrarlos.
+	- La página anterior debe permitir crear, modificar o eliminar. Por ejemplo, podemos crear una BBDD de productos. La página mostraría un listado de los productos disponibles, y nos daría la opción de borrarlos, modificarlos o crear uno nuevo.
   - **Temas clave**
     - Firebase
 	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
@@ -74,6 +74,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/TsUGdctw
 - [X] Chomón App **9/2/2025**
   - https://classroom.github.com/a/1AE6Qt0-
-- [ ] MusicDB **23/2/2025**
+- [ ] MusicDB **19/2/2025**
   - https://classroom.github.com/a/uloH2nqA
 - [ ] Entrega libre **6/3/2025** (Defensa **6/3/2025**)
+  - El **18/3/2025** se debe entregar durante la clase la propuesta de App
