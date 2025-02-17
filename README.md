@@ -64,7 +64,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	  - [Firebase Realtime Database de acceso público](FIREBASE1.md)
 	  - Firestore
 	    - [Acceso desde Flutter con peticiones http](https://firebase.google.com/docs/firestore/use-rest-api?hl=es-419)
-      - Firebase Auth Rest API
+      - [Firebase Auth Rest API](https://firebase.google.com/docs/reference/rest/auth?hl=es-419)
 	  - Login y manejo de Tokens
 	- Formularios en Flutter
 
