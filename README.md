@@ -56,6 +56,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
     - Un formulario de login
 	- Una página con un listView (o algún componente similar) que muestre información de una consulta privada a una BBDD en Firebase.
 	- La página anterior debe permitir crear, modificar o eliminar. Por ejemplo, podemos crear una BBDD de productos. La página mostraría un listado de los productos disponibles, y nos daría la opción de borrarlos, modificarlos o crear uno nuevo.
+	- Las operaciones CRUD y la autenticación deben realizarse tanto con peticiones http como con los métodos de la libreria Flutterfire
   - **Temas clave**
     - Firebase
 	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
@@ -67,6 +68,8 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
       - [Firebase Auth Rest API](https://firebase.google.com/docs/reference/rest/auth?hl=es-419)
 	  - Login y manejo de Tokens
 	- Formularios en Flutter
+	- Flutterfire
+	  - [Documentación oficial](https://firebase.flutter.dev/)
 
 ### Listado de APIs públicas
 
