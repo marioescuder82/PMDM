@@ -71,6 +71,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Flutterfire
 	  - [Documentación oficial](https://firebase.flutter.dev/)
 	- [Bottom menu](BOTTOM_MENU.md)
+	- [Idioma del dispositivo](https://pub.dev/packages/devicelocale/example)
 
 ### Listado de APIs públicas
 
