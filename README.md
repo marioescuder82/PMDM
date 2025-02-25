@@ -70,6 +70,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Formularios en Flutter
 	- Flutterfire
 	  - [Documentación oficial](https://firebase.flutter.dev/)
+	- [Bottom menu](BOTTOM_MENU.md)
 
 ### Listado de APIs públicas
 
