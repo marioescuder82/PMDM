@@ -53,8 +53,9 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	
 - [ ] **Práctica 4: Entrega libre**
   - En esta práctica debemos entregar una App que incluya, al menos:
-    - Un formulario de login
-	- Una página con un listView (o algún componente similar) que muestre información de una consulta privada a una BBDD en Firebase.
+    - Un formulario de acceso
+	- Un formulario de registro
+	- Una página que muestre información de una consulta privada a una BBDD en Firebase.
 	- La página anterior debe permitir crear, modificar o eliminar. Por ejemplo, podemos crear una BBDD de productos. La página mostraría un listado de los productos disponibles, y nos daría la opción de borrarlos, modificarlos o crear uno nuevo.
 	- Las operaciones CRUD y la autenticación deben realizarse tanto con peticiones http como con los métodos de la libreria Flutterfire
 	- Debeis utilizar al menos dos componentes de pub.dev o de fluttergems.dev
