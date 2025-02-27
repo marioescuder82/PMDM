@@ -74,6 +74,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	  - [Documentación oficial](https://firebase.flutter.dev/)
 	- [Bottom menu](BOTTOM_MENU.md)
 	- [Idioma del dispositivo](https://pub.dev/packages/devicelocale/example)
+	- [Configurar varios idiomas en la App](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
 
 ### Listado de APIs públicas
 
