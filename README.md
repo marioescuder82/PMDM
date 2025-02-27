@@ -35,7 +35,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	  - [Iconos disponibles en Flutter](https://api.flutter.dev/flutter/material/Icons-class.html)
 	  - Card
 	  
-- [ ] **Práctica 3: MusicDB**
+- [X] **Práctica 3: MusicDB**
   - En esta práctica vamos a desarrollar una aplicación que utilizará la REST API de https://www.theaudiodb.com/
   - En la página principal, mostraremos un listado de todos los artistas. Al clickar sobre uno de ellos, nos llevará a su página.
   - La página de cada artista contendrá sus datos (nombre, descripción, etc) y un listado de las carátulas de sus discos.
@@ -57,6 +57,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Una página con un listView (o algún componente similar) que muestre información de una consulta privada a una BBDD en Firebase.
 	- La página anterior debe permitir crear, modificar o eliminar. Por ejemplo, podemos crear una BBDD de productos. La página mostraría un listado de los productos disponibles, y nos daría la opción de borrarlos, modificarlos o crear uno nuevo.
 	- Las operaciones CRUD y la autenticación deben realizarse tanto con peticiones http como con los métodos de la libreria Flutterfire
+	- Debeis utilizar al menos dos componentes de pub.dev o de fluttergems.dev
   - **Temas clave**
     - Firebase
 	  - [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=es-419)
@@ -83,8 +84,13 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/TsUGdctw
 - [X] Chomón App **9/2/2025**
   - https://classroom.github.com/a/1AE6Qt0-
-- [ ] MusicDB **19/2/2025**
+- [X] MusicDB **19/2/2025**
   - https://classroom.github.com/a/uloH2nqA
 - [ ] Entrega libre **4/3/2025** (Defensa **6/3/2025**)
   - El **18/2/2025** se debe entregar durante la clase la propuesta de App
+  - https://classroom.github.com/a/D7UGAMOx
+
+### Recuperación
+- [ ] Entrega libre **11/3/2025** (Defensa **13/3/2025**)
+  - En la entrega de la recuperación debes seguir lo mencionado anterioremente para la Práctica 4. Además, debes hacer una consulta a una API REST pública mediante peticiones http. Es decir, si por ejemplo desarrollas la App de un concesionario que utiliza una BBDD de Firebase para almacenar la información acerca de los vehículos, etc puedes consultar una API REST pública para mostrar fotografías de dichos vehículos. En cuanto al uso de componentes de pub.dev o fluttergems.dev, debes utilizar 3 en lugar de dos, y al menos 1 debe ser de pub.dev y otro de fluttergems.dev
   - https://classroom.github.com/a/D7UGAMOx
