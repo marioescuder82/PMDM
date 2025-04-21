@@ -51,7 +51,7 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
 	- Providers
 	- Quicktype.io
 	
-- [ ] **Práctica 4: Entrega libre**
+- [X] **Práctica 4: Entrega libre**
   - En esta práctica debemos entregar una App que incluya, al menos:
     - Un formulario de acceso
 	- Un formulario de registro
@@ -89,11 +89,11 @@ Asignatura Programación multimedia y dispositivos móviles de 2º curso del cic
   - https://classroom.github.com/a/1AE6Qt0-
 - [X] MusicDB **19/2/2025**
   - https://classroom.github.com/a/uloH2nqA
-- [ ] Entrega libre **4/3/2025** (Defensa **6/3/2025**)
+- [X] Entrega libre **4/3/2025** (Defensa **6/3/2025**)
   - El **18/2/2025** se debe entregar durante la clase la propuesta de App
   - https://classroom.github.com/a/D7UGAMOx
 
 ### Recuperación
-- [ ] Entrega libre **11/3/2025** (Defensa **13/3/2025**)
+- [X] Entrega libre **11/3/2025** (Defensa **13/3/2025**)
   - En la entrega de la recuperación debes seguir lo mencionado anterioremente para la Práctica 4. Además, debes hacer una consulta a una API REST pública mediante peticiones http. Es decir, si por ejemplo desarrollas la App de un concesionario que utiliza una BBDD de Firebase para almacenar la información acerca de los vehículos, etc puedes consultar una API REST pública para mostrar fotografías de dichos vehículos. En cuanto al uso de componentes de pub.dev o fluttergems.dev, debes utilizar 3 en lugar de dos, y al menos 1 debe ser de pub.dev y otro de fluttergems.dev
   - https://classroom.github.com/a/D7UGAMOx
